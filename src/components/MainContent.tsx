@@ -16,7 +16,7 @@ const LandingPage = () => {
   ];
 
   useEffect(() => {
-    const targetDate = new Date("2025-02-28T00:00:00").getTime();
+    const targetDate = new Date("2025-03-11T00:00:00").getTime();
     const interval = setInterval(() => {
       const now = new Date().getTime();
       const difference = targetDate - now;
@@ -44,7 +44,7 @@ const LandingPage = () => {
           PSG Tech Math Olympiad 2025
         </h1>
         <h2 className="text-2xl md:text-3xl font-semibold mb-6">
-          28th February 2025 (Friday)
+          11th March 2025 (Tuesday)
         </h2>
         <p className="text-lg md:text-xl mb-4">Organised by</p>
         <p className="text-xl md:text-2xl font-bold">
