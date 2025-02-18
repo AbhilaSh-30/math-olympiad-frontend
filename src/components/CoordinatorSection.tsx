@@ -14,7 +14,7 @@ const CoordinatorsSection = () => {
             <div className="flex justify-center mb-4">
               <img src={contactIcon} />
             </div>
-            <h3 className="text-lg font-semibold">{coordinator.name}</h3>
+            <h3 className="text-gray-700 text-lg font-semibold">{coordinator.name}</h3>
             <p className="text-gray-600 text-sm mb-2">{coordinator.title}</p>
             <p className="text-purple-500 font-medium">{coordinator.phone}</p>
           </div>
