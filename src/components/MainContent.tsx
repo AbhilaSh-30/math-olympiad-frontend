@@ -100,7 +100,7 @@ const LandingPage = () => {
       <CoordinatorsSection />
       <div id="Register Here" className="flex justify-center items-center h-48 bg-gradient-to-r from-purple-400 to-purple-600">
         <a
-          href="https://form.typeform.com/to/bEqGUJER"
+          href="https://form.typeform.com/to/WNCtKKrU"
           className="bg-white text-purple-600 font-bold text-2xl md:text-xl px-10 py-4 rounded-full shadow-lg transition-all duration-300 ease-in-out transform hover:scale-110 hover:bg-purple-800 hover:text-white flex items-center gap-2"
         >
           Register Now
