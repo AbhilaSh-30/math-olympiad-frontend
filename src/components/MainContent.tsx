@@ -58,7 +58,7 @@ const LandingPage = () => {
         </p>
 
         <div className="bg-white text-black font-semibold text-lg md:text-xl py-3 px-6 rounded-full mt-6 inline-block">
-          Registrations Open Only For First Year Students (B.E/B.Tech/B.Sc/M.Sc)
+          Registrations Open Only For First Year Students of PSGCT (B.E / B.Tech / B.Sc / M.Sc (Integrated))
         </div>
 
         <div className="mt-8">
